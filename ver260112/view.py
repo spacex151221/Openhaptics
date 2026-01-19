@@ -49,4 +49,5 @@ class HapticAdminTest:
         self.hd.hdDisableDevice(handle)
 
 if __name__ == "__main__":
+
     HapticAdminTest().run()
