@@ -73,4 +73,5 @@ if __name__ == "__main__":
             print(f"\rX:{p[0]:>7.2f} Z:{p[1]:>7.2f} Y:{p[2]:>7.2f} | {b}", end="")
             time.sleep(0.01)
     except KeyboardInterrupt:
+
         engine.close()
