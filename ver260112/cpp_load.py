@@ -62,4 +62,5 @@ def run_haptics():
         print(f"DLL 실행 중 오류 발생: {e}")
 
 if __name__ == "__main__":
+
     run_haptics()
