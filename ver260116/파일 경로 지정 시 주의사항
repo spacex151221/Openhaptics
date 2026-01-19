@@ -1,0 +1,2 @@
+HD.zip 의 경우 압축을 풀어 그대로 .py가 있는 폴더 안에 둘 것.
+ex) C:\Users\KAMIC\Documents\project\Openhaptics 안에 .py와 .cpp, hd.lib 를 둘경우 Openhaptics 폴더 안에 HD라는 폴더가 있고 그 안에 헤더 파일(hd.h)가 있는 방식
