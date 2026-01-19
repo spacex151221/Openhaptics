@@ -21,4 +21,5 @@ class ButtonManager:
         if b1 and b2: return "BOTH PUSHED"
         elif b1:     return "BUTTON 1   "
         elif b2:     return "BUTTON 2   "
+
         else:        return "RELEASED   "
